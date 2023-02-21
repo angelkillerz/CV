@@ -1,0 +1,39 @@
+* {
+   
+    font-family: 'Merriweather', serif;
+
+}
+
+body {
+    background-color: antiquewhite;
+    margin: auto;
+}
+
+header {
+    position: relative;
+    background-color: burlywood;
+    margin: auto;
+
+}
+
+.header {
+    margin: auto;
+    width: 50%;
+    padding: 10px;
+}
+
+.form-one {
+    display: block;
+    margin: 3em 3em;
+    padding: 50px;
+    border: 1px solid black;
+    border-radius: 30px;
+}
+
+section .details {
+    display: block;
+    margin: 3em;
+    padding: 10px;
+    border: 1px solid black;
+    border-radius: 30px;
+}
